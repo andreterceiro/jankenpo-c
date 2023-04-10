@@ -11,4 +11,8 @@ Or compile index.c and execute the generated artifact.
 
 ![Example image](example.png)
 
+## Video ilustrating the execution
+
+[https://youtu.be/IOpULwnyEbg](https://youtu.be/IOpULwnyEbg)
+
 
